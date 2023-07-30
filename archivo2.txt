@@ -1,0 +1,2 @@
+estudiando git
+practica en la consola git bash
