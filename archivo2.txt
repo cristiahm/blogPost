@@ -1,3 +1,6 @@
 estudiando git
 practica en la consola git bash
 utilizabdo git rest y git checkout
+
+la vida es bonita cuando se pone dificil 
+muestra caracter y continua
