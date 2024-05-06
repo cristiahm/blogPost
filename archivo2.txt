@@ -1,2 +1,3 @@
 estudiando git
 practica en la consola git bash
+utilizabdo git rest y git checkout
