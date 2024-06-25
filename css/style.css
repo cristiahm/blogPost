@@ -1,0 +1,128 @@
+body
+{
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#cabecera
+{
+    background: #33a;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+#container
+{
+    width: 70%;
+    padding: 1cm;
+    text-align: left;
+    border: 1px solid #000;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
+}
+
+#contenido_completo
+{
+    display: none;
+}
+
+#contenido_completo1
+{
+    display: none;
+}
+
+
+/*estilos para el articulo sobre IA*/
+
+.content {
+    background: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.article-preview {
+    margin-bottom: 20px;
+}
+
+.article-preview h2 {
+    color: #333;
+}
+
+.article-preview p {
+    margin: 10px 0;
+}
+
+.read-more {
+    display: inline-block;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #333;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.read-more:hover {
+    background-color: #555;
+}
+
+.footer {
+    margin-top: 20px;
+}
+
+
+/*estilos sobre el articulo de futbol*/
+
+.content {
+    background: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.article-preview {
+    margin-bottom: 20px;
+}
+
+.article-preview h2 {
+    color: #333;
+}
+
+.article-preview p {
+    margin: 10px 0;
+}
+
+.read-more {
+    display: inline-block;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #333;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.read-more:hover {
+    background-color: #555;
+}
+
+.footer {
+    margin-top: 20px;
+}
