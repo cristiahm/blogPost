@@ -56,6 +56,12 @@ body
     display: none;
 }
 
+#post
+{
+    background: white;
+    padding: 1em;
+}
+
 
 /*estilos para el articulo sobre IA*/
 
