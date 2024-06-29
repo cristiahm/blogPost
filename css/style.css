@@ -51,7 +51,7 @@ body
     display: none;
 }
 
-#contenido_completo1
+#footer
 {
     display: none;
 }
@@ -138,4 +138,9 @@ body
 
 .footer {
     margin-top: 20px;
+
+	background: #777;
+    color: white;
+	text-align: center;
+	padding: 0.5em;
 }
