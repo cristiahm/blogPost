@@ -29,7 +29,7 @@ body
 #container
 {
     width: 70%;
-    padding: 1cm;
+    padding: 0;
     text-align: left;
     border: 1px solid #000;
     margin: 0 auto;
@@ -51,7 +51,7 @@ body
     display: none;
 }
 
-#footer
+#contenido_completo1
 {
     display: none;
 }
@@ -97,10 +97,6 @@ body
     background-color: #555;
 }
 
-.footer {
-    margin-top: 20px;
-}
-
 
 /*estilos sobre el articulo de futbol*/
 
@@ -136,8 +132,8 @@ body
     background-color: #555;
 }
 
-.footer {
-    margin-top: 20px;
+#footer {
+    
 
 	background: #777;
     color: white;
