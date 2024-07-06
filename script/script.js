@@ -31,4 +31,4 @@ let likes = 0;
 likeButton.addEventListener('click', () => {
     likes++;
     likeButton.textContent = `Me gusta (${likes})`;
-});
+}); 
