@@ -56,6 +56,11 @@ body
     display: none;
 }
 
+#contenido_completo2
+{
+    display: none;
+}
+
 #post
 {
     background: white;
